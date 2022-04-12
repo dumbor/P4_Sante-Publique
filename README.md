@@ -1,8 +1,6 @@
 Scénario
 
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
-Food and Agriculture Organization of the United Nations
-Food and Agriculture Organization of the United Nations
 
 Son rôle ? C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ». 
 
@@ -10,7 +8,6 @@ Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est
 
 Dès votre arrivée, vous trouvez un mail de Marc dans votre boîte mail :
 
- 
 
     Objet : Bienvenue
     De : Marc
