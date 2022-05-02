@@ -1,4 +1,10 @@
-Scénario
+Compétences évaluées
+
+- Utiliser des librairies spécialisées pour les traitements data
+- Créer un environnement de développement
+- Manipuler des DataFrames
+
+Scénario 
 
 Félicitations ! Vous avez récemment rejoint une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst.
 
